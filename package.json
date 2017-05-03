@@ -1,0 +1,30 @@
+{
+  "name": "lasso-prepack",
+  "version": "0.0.1",
+  "description": "Lasso prepack transform",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/austinkelleher/lasso-prepack.git"
+  },
+  "keywords": [
+    "lasso",
+    "prepack",
+    "transform"
+  ],
+  "author": "Austin Kelleher, a@alk.im",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/austinkelleher/lasso-prepack/issues"
+  },
+  "homepage": "https://github.com/austinkelleher/lasso-prepack#readme",
+  "dependencies": {
+    "prepack": "^0.2.0"
+  },
+  "devDependencies": {
+    "lasso": "^2.11.10"
+  }
+}
